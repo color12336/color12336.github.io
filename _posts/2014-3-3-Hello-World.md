@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 * one
-  *abbc
+  * abbc
 * two
 * three
 
